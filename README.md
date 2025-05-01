@@ -1,5 +1,29 @@
-For this project, I used AI tools to help speed up the initial setup and offer guidance when needed. However, all customizations and adjustments were made by me to ensure the final product aligns with the specific needs of the project.
+# Social Links Profile
 
-The AI was a tool to help me work more efficiently, but the final result reflects my personal input and work.
+A simple project to practice UI development, showcasing a profile with links to various social media platforms.
 
-Hope you enjoy exploring the project!
+## 🛠️ Tech Stack
+- HTML
+- CSS
+
+## 📦 Installation
+
+1. **Download or Clone** this repository:
+   ```bash
+   git clone https://github.com/yourusername/social-links-profile.git
+Run the Project:
+
+Open the index.html file in your browser to view the profile.
+
+👥 Features
+Simple UI design for a personal profile with social media links.
+
+Interactive design using only HTML and CSS.
+
+Clean and responsive layout for easy viewing on different devices.
+
+📄 License
+This project is for personal practice and learning purposes.
+
+🙋 Author
+Jun Alvior – property360-2
